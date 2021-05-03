@@ -1,9 +1,14 @@
 body {
-	color: #2710c2;
+	color: black;
+	background-image: url("../assets/website-stock/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment:fixed;
 }
-
-/*.imgfix {
-	max-height: 500px;
-	height: 70%;
-	width: auto;
-}*/
+.background-color-layer{
+	background-color: black;
+}
+.card-block{
+	background-color: rgba(255, 255, 255, 0.5);
+}
